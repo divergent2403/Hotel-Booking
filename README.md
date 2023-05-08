@@ -10,7 +10,6 @@
 
 
 ### Quick Start : 
-* Clone the project : https://github.com/yash17525/hotel-booking-system-recommender.git
 * Set up the virtual environment.
 * Install required dependencies.
 * Then in the project directory, run 'flask run'.
