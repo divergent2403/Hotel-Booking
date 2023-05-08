@@ -9,11 +9,7 @@
 * Under recommended section, user will be able to view recommended hotels. User will also see recommended tag to those hotels which are recommended to him under booking section.
 
 
-### Quick Start : 
-* Set up the virtual environment.
-* Install required dependencies.
-* Then in the project directory, run 'flask run'.
-* And you are all set to go.
+
 
 # Existing user info and admin info
 * In this project I have already created some users and a admin user.You can create new users yourself.You can view status of existing users and admin dashboard using the information given below :
